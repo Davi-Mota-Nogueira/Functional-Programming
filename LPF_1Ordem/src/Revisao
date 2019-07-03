@@ -1,7 +1,0 @@
-fun maior(f:(Int)->Int, g:(Int)->Int:(Int)->Int = {x -> if(f(x)>g(x))
-                                                                f(x)
-                                                                else
-                                                                g(x)}
-
-
-fun potencia(f:(Int)->Int, i:Int):(Int)->Int = {x -> when{} }

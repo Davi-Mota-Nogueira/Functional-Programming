@@ -15,6 +15,7 @@ fun main(){
     println(sum(l5))
     println(multiply(l5))
     println(divide(l5))
+    println(sum(greater5(multiple3(l4))))
 }
 
 /*
@@ -86,6 +87,8 @@ fun filter(f:(Int) -> Boolean,l:List):List = when{
 val selectEven = {l:List -> filter({x:Int -> x%2==0},l)}
 val selectOdd = {l:List -> filter({x:Int -> x%2!=0},l)}
 val greater10 = {l:List -> filter({x:Int -> x>10},l)}
+val multiple3 = {l:List -> filter({x->x%3 == 0},l)}
+val greater5 = {l:List -> filter({x-> x>=5}, l)}
 
 
 
