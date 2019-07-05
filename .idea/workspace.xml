@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="624f9a58-dffb-45de-ae51-e92a99114beb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Functional-Programming.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LPF_1Ordem/src/Revisao.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LPF_1Ordem/src/Exercicio.kt" beforeDir="false" afterPath="$PROJECT_DIR$/LPF_1Ordem/src/Exercicio.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LPF_1Ordem/src/Revisao" beforeDir="false" />
-    </list>
+    <list default="true" id="624f9a58-dffb-45de-ae51-e92a99114beb" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,12 +141,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1562179107039</updated>
-      <workItem from="1562179110856" duration="10188000" />
+      <workItem from="1562179110856" duration="10789000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10188000" />
+    <option name="totallyTimeSpent" value="10789000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
